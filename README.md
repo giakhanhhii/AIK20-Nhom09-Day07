@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ngày 7 — Nền Tảng Dữ Liệu: Embedding & Vector Store
 
 ---
@@ -233,3 +234,6 @@ Xem chi tiết tại `docs/SCORING.md`. Tóm tắt:
 ```bash
 pytest tests/ -v
 ```
+=======
+# AIK20-Nhom09-Day07
+>>>>>>> d10a4c6da71ebeec89a270660a46abafaf0c8a6a
